@@ -1,0 +1,5 @@
+/Users/mariuswaseige/Downloads/C#/Math Game v2
+/Users/mariuswaseige/Downloads/C#/Math Game v2.dll
+/Users/mariuswaseige/Downloads/C#/Math Game v2.deps.json
+/Users/mariuswaseige/Downloads/C#/Math Game v2.runtimeconfig.json
+/Users/mariuswaseige/Downloads/C#/Math Game v2.pdb
